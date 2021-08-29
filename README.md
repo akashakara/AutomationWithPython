@@ -14,3 +14,6 @@ The goal of the file organizer is to arrange all the random files on the PC base
 
 ## wikipedia scrap
 this python script automate the scrapping line by line or making table from wikipedia site so easy.
+
+## linkedIn job scrap
+scrap the job you want from linkedin in in the form of csv file .
