@@ -10,6 +10,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 
+#search for the job in linkedin and copy the url here
 url = "https://www.linkedin.com/jobs/search/?f_E=6&geoId=102713980&keywords=data%20science&location=India"
 html = requests.get(url)
 
